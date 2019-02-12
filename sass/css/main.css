@@ -1,0 +1,33 @@
+body {
+  background: #aae9d2;
+  color: #dc208e;
+  font-size: 20px; }
+
+section p {
+  background: white;
+  border: 2px solid black;
+  padding: 15px;
+  border-radius: 25px; }
+
+nav {
+  text-align: center; }
+  nav ul li {
+    list-style: none;
+    display: inline-block;
+    padding-right: 20px;
+    background: white;
+    border: 2px solid black;
+    padding: 15px;
+    border-radius: 25px; }
+    nav ul li a {
+      font-family: monospace;
+      font-size: 1.5em;
+      text-decoration: none;
+      color: black; }
+    nav ul li a:hover {
+      background: black;
+      color: white; }
+
+/*Make sure to put all of your css in .scss files instead of in main.css*/
+
+/*# sourceMappingURL=main.css.map */
